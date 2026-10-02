@@ -148,7 +148,7 @@ The server registers three tools with `server.registerTool()`.
 
 ## Article
 
-Read the full walkthrough on Medium: [add your article link after publishing]
+Read the full walkthrough on Medium: (https://medium.com/@sendtosarthak/your-backend-has-a-ui-for-humans-heres-how-to-build-one-for-ai-236f72e3435d)
 
 ---
 
